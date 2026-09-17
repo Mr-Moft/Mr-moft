@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mr-Moft/Mr-moft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mr-moft
 
-Here are some ideas to get you started:
+Building small things that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools · Utilities · Experiments · Open Source
+
+<br>
+
+
+
+
+</div>
+
+<br>
+
+What is this?
+
+Mr-moft is my workshop for building and sharing software.
+
+I use this space for developer tools, useful utilities, experiments, prototypes, and small products. Some projects are polished. Others are deliberately small or experimental.
+
+The goal is simple:
+
+Build it. Test it. Improve it. Share it.
+
+
+
